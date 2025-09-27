@@ -122,4 +122,3 @@ void deleteElement(int arr[], int *n, int pos) {
     (*n)--;
     printf("Element deleted successfully.\n");
 }
-```
